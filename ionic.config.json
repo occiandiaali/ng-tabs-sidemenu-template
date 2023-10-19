@@ -1,0 +1,7 @@
+{
+  "name": "ellipsis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
